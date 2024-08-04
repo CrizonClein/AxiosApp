@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Afilado App</string>
+    <string name="camera">Camera Icon</string>
+    <string name="take_picture">takepicture</string>
+    <string name="image_description">Show Picture</string>
+    <string name="select_image">Select Image</string>
+    <string name="capture_image">Take Picture</string>
+    <string name="classify_image">Classify Image</string>
+    <string name="result_placeholder">Results</string>
+    <string name="gambar_hasil_pilihan_atau_tangkapan_kamera">show pict</string>
+    <string name="pilih_gambar">gallery</string>
+    <string name="ambil_gambar">take pict</string>
+    <string name="klasifikasikan_gambar">classify</string>
+    <string name="hasil_klasifikasi_akan_ditampilkan_di_sini">results</string>
+    <string name="AxiosApp">axiosapp</string>
+</resources>

@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\Arif\Afilado-App-main\sdk\.cxx\Debug\202o17l4\arm64-v8a'
+ninja: no work to do.
